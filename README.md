@@ -623,7 +623,7 @@ netfilter-persistent reload
 ```bash
 su -l jang
 cd ~
-git clone git@github.com:Roy-Jang/example-nginx.git nginx-example.com
+git clone git@github.com:Roy-Jang/nginx-example.git nginx-example.com
 cd ~/nginx-example.com
 composer install
 ```
